@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+@theme {
+  --color-brand-cream: #fffdd0; 
+  --color-brand-lavender: #DBD4FF;
+  --color-brand-olive: #808034;
+  --color-brand-plum: #723480;
+
+  --font-sans: 'Space Mono', monospace;
+  --font-dot: 'DotGothic16', sans-serif;
+}
+
+@keyframes scroll-gallery {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
