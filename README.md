@@ -6,7 +6,7 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 
 ## Engineering Design Review:
 
-![Link to EDR](https://drive.google.com/file/d/1GyPqfDJt0-3JK5GB20JYz1vbdGRtdi0t/view?usp=sharing)
+[Link to EDR](https://drive.google.com/file/d/1GyPqfDJt0-3JK5GB20JYz1vbdGRtdi0t/view?usp=sharing)
 
 ## Tech Stack
 
