@@ -5,9 +5,9 @@ export default function App() {
 const[count, setCount] = useState(0)
 
 return (
-  <div className='main-app bg-[#FCFBF4]'>
+  <div className='main-app bg-[#eeede9]'>
 
-    <div className='hero-section bg-[#FCFBF4] flex flex-col items-center p-20' >
+    <div className='hero-section bg-[#eeede9] flex flex-col items-center p-20' >
         <h1 className='font-dot color-brand-olive text-6xl py-3'> The SmartStyle Closet </h1>
         <p className='py-7'>Here to make fashion and styling choices simpler on any day of the week.    </p>
       <button className='first-button font-dot bg-[#723480] text-white rounded-[20px] p-4 
