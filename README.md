@@ -8,7 +8,7 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 
 [Link to EDR](https://drive.google.com/file/d/1GyPqfDJt0-3JK5GB20JYz1vbdGRtdi0t/view?usp=sharing)
 
-<img width="800" height="682" alt="Screenshot 2026-09-25 at 6 29 23 PM" src="https://github.com/user-attachments/assets/bb82804f-bd55-4031-a9d0-e8b9b607916d" />
+<img width="600" height="482" alt="Screenshot 2026-09-25 at 6 29 23 PM" src="https://github.com/user-attachments/assets/bb82804f-bd55-4031-a9d0-e8b9b607916d" />
 
 
 ## Design & Branding
