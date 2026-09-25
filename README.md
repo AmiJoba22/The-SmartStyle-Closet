@@ -8,11 +8,25 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 
 [Link to EDR](https://drive.google.com/file/d/1GyPqfDJt0-3JK5GB20JYz1vbdGRtdi0t/view?usp=sharing)
 
+## Design & Branding
+
+Logo:
+<img width="2000" height="2000" alt="smartstyle_logo" src="https://github.com/user-attachments/assets/ab119383-46a4-4d64-95c5-8fabde35edb3" />
+
+Typography:
+DotGothic16 - Headings + titles
+Space Mono - Paragraphs + body text
+
+Branding Colors:
+![Cream](https://shields.io)
+![Lavender](https://shields.io)
+![Olive](https://shields.io)
+![Plum](https://shields.io)
+
 ## Figma Mockup
 - Mockup/Prototype design process is ongoing, with finalizing branding. Design previews below:
 
 <img width="834" height="677" alt="Screenshot 2026-09-25 at 6 15 28 PM" src="https://github.com/user-attachments/assets/e8955e90-dc5d-4c70-9bcb-d89c7e72484c" />
-
 
 
 ## Tech Stack
