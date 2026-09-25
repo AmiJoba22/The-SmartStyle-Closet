@@ -11,7 +11,8 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 ## Figma Mockup
 - Mockup/Prototype design process is ongoing, with finalizing branding. Design previews below:
 
-<img width="933" height="705" alt="Screenshot 2026-09-25 at 6 07 11 PM" src="https://github.com/user-attachments/assets/9cbd7b5c-c913-4d67-8042-456977fdc829" />
+<img width="834" height="677" alt="Screenshot 2026-09-25 at 6 15 28 PM" src="https://github.com/user-attachments/assets/e8955e90-dc5d-4c70-9bcb-d89c7e72484c" />
+
 
 
 ## Tech Stack
