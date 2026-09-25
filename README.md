@@ -12,7 +12,7 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 
 Logo:
 
-<img width="500" height="500" alt="smartstyle_logo" src="https://github.com/user-attachments/assets/ab119383-46a4-4d64-95c5-8fabde35edb3" />
+<img width="300" height="300" alt="smartstyle_logo" src="https://github.com/user-attachments/assets/ab119383-46a4-4d64-95c5-8fabde35edb3" />
 
 Typography:
 
