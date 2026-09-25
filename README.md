@@ -23,7 +23,7 @@ Typography:
 - Space Mono - Paragraphs + body text
 
 Branding Colors:
-- Canvas: ![Static Badge](https://img.shields.io/badge/%23eeede9-%20?style=for-the-badge&logoColor=%23eeede9&color=%23eeede9)
+- Canvas: ![Static Badge](https://img.shields.io/badge/%23FCFBF4-%20?style=for-the-badge&logoColor=FCFBF4&color=FCFBF4)
 - Primary: ![Static Badge](https://img.shields.io/badge/%23723480-%20?style=for-the-badge&logoColor=%23723480&color=%23723480)
 - Secondary: ![Static Badge](https://img.shields.io/badge/%23808034-%20?style=for-the-badge&logoColor=%23808034&color=%23808034)
 - Accent: ![Static Badge](https://img.shields.io/badge/%23DBD4FF-%20?style=for-the-badge&logoColor=%23DBD4FF&color=%23DBD4FF)
