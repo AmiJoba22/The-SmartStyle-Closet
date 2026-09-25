@@ -8,10 +8,10 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 
 [Link to EDR](https://drive.google.com/file/d/1GyPqfDJt0-3JK5GB20JYz1vbdGRtdi0t/view?usp=sharing)
 
-## Figma Wireframe
-- Wireframe design process is ongoing, with finalizing branding. View home page design draft:
+## Figma Mockup
+- Mockup/Prototype design process is ongoing, with finalizing branding. Design previews below:
 
-<img width="850" height="684" alt="Screenshot 2026-09-19 at 1 17 54 AM" src="https://github.com/user-attachments/assets/dddf950a-88d6-4918-a049-fe22b066bd6b" />
+<img width="933" height="705" alt="Screenshot 2026-09-25 at 6 07 11 PM" src="https://github.com/user-attachments/assets/9cbd7b5c-c913-4d67-8042-456977fdc829" />
 
 
 ## Tech Stack
