@@ -11,11 +11,13 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 ## Design & Branding
 
 Logo:
+
 <img width="500" height="500" alt="smartstyle_logo" src="https://github.com/user-attachments/assets/ab119383-46a4-4d64-95c5-8fabde35edb3" />
 
 Typography:
-DotGothic16 - Headings + titles
-Space Mono - Paragraphs + body text
+
+- DotGothic16 - Headings + titles
+- Space Mono - Paragraphs + body text
 
 Branding Colors:
 ![Cream](https://shields.io)
