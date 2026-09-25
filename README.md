@@ -11,7 +11,7 @@ Based on the Engineering Design Review I created in 2024, for my Software Engine
 ## Design & Branding
 
 Logo:
-<img width="2000" height="2000" alt="smartstyle_logo" src="https://github.com/user-attachments/assets/ab119383-46a4-4d64-95c5-8fabde35edb3" />
+<img width="1000" height="1000" alt="smartstyle_logo" src="https://github.com/user-attachments/assets/ab119383-46a4-4d64-95c5-8fabde35edb3" />
 
 Typography:
 DotGothic16 - Headings + titles
