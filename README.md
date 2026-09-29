@@ -31,7 +31,7 @@ Branding Colors:
 ## Figma Mockup
 - Mockup/Prototype design process is ongoing, with finalizing branding. Design previews below:
 
-<img width="784" height="637" alt="Screenshot 2026-09-28 at 9 13 59 PM" src="https://github.com/user-attachments/assets/c40ad221-fb0c-46ef-944c-d79a33f76653" />
+<img width="752" height="609" alt="Screenshot 2026-09-28 at 9 24 15 PM" src="https://github.com/user-attachments/assets/9d5b74f0-0787-4062-83bc-aa31f9951105" />
 
 
 ## Tech Stack
