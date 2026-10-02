@@ -4,6 +4,8 @@ Creating a fashion and styling combination web app based on preference, weather 
 
 Based on the Engineering Design Review I created in 2024, for my Software Engineering & Professional Practice course at The University of Birmingham.
 
+<img width="552" height="409" alt="Screenshot 2026-09-28 at 9 24 15 PM" src="https://github.com/user-attachments/assets/9d5b74f0-0787-4062-83bc-aa31f9951105" />
+
 ## Engineering Design Review:
 
 [Link to EDR](https://drive.google.com/file/d/1GyPqfDJt0-3JK5GB20JYz1vbdGRtdi0t/view?usp=sharing)
