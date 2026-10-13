@@ -34,6 +34,8 @@ Branding Colors:
 
 <img width="752" height="609" alt="Screenshot 2026-09-28 at 9 24 15 PM" src="https://github.com/user-attachments/assets/9d5b74f0-0787-4062-83bc-aa31f9951105" />
 
+<img width="805" height="666" alt="Screenshot 2026-10-12 at 9 19 20 PM" src="https://github.com/user-attachments/assets/66bfeed7-00bb-4ca1-993b-de812419d623" />
+
 
 ## Tech Stack
 
