@@ -30,9 +30,9 @@ Branding Colors:
 - Accent: ![Static Badge](https://img.shields.io/badge/%23DBD4FF-%20?style=for-the-badge&logoColor=%23DBD4FF&color=%23DBD4FF)
 
 ## Figma Mockup
-- Mockup/Prototype design process is ongoing, with finalizing branding. Design previews below:
+- Prototype is ongoing. Design previews below:
 
-[Figma Mockup](https://www.figma.com/design/pHqttbmTxgehRsNSyxOxiL/The-SmartStyle-Closet?node-id=0-1&p=f&t=7HvnWYWguhbwKEiK-0)
+[Figma Mockup Link](https://www.figma.com/design/pHqttbmTxgehRsNSyxOxiL/The-SmartStyle-Closet?node-id=0-1&p=f&t=7HvnWYWguhbwKEiK-0)
 
 <img width="752" height="609" alt="Screenshot 2026-09-28 at 9 24 15 PM" src="https://github.com/user-attachments/assets/9d5b74f0-0787-4062-83bc-aa31f9951105" />
 
