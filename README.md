@@ -32,9 +32,12 @@ Branding Colors:
 ## Figma Mockup
 - Mockup/Prototype design process is ongoing, with finalizing branding. Design previews below:
 
+[Figma Mockup](https://www.figma.com/design/pHqttbmTxgehRsNSyxOxiL/The-SmartStyle-Closet?node-id=0-1&p=f&t=7HvnWYWguhbwKEiK-0)
+
 <img width="752" height="609" alt="Screenshot 2026-09-28 at 9 24 15 PM" src="https://github.com/user-attachments/assets/9d5b74f0-0787-4062-83bc-aa31f9951105" />
 
-<img width="705" height="566" alt="Screenshot 2026-10-12 at 9 19 20 PM" src="https://github.com/user-attachments/assets/66bfeed7-00bb-4ca1-993b-de812419d623" />
+<img width="651" height="621" alt="Screenshot 2026-10-17 at 10 18 03 PM" src="https://github.com/user-attachments/assets/6722c0fd-7dce-4124-a253-94c351050ace" />
+
 
 
 ## Tech Stack
