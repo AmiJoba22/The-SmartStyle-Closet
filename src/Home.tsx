@@ -9,11 +9,21 @@ const[count, setCount] = useState(0)
 return (
   <div className='main-app bg-[#FCFBF4]'>
 
-  <img className="w-[150px] h-auto rounded-[10px] shrink-0" src="/assets/smartstyle_logo.png" alt="Logo Design" />
+    <div className='header-div py-5 flex justify-between items-center'>
 
-    <div className='hero-section bg-[#FCFBF4] flex flex-col items-center p-5' >
-        <h1 className='font-dot color-brand-olive text-6xl'> The SmartStyle Closet </h1>
-        <p className='py-7'>Here to make fashion and styling choices simpler on any day of the week.    </p>
+      <button className='step-button shrink-0 font-dot bg-[#723480] text-white rounded-[20px] py-4 
+       px-15 ml-2 '>
+        Welcome Stylists
+      </button>
+
+  <img className="w-[150px] h-auto rounded-[10px] mr-2" src="/assets/smartstyle_logo.png" alt="Logo Design" />
+
+  
+</div>
+
+    <div className='hero-section bg-[#FCFBF4] flex flex-col items-center ' >
+        <h1 className='font-dot color-brand-olive text-6xl items-center '> The SmartStyle Closet </h1>
+        <p className='py-7 items-center'>Here to make fashion and styling choices simpler on any day of the week.    </p>
 
       <Link to='/weather'>
       <button className='first-button font-dot bg-[#723480] text-white rounded-[20px] py-4 
@@ -26,7 +36,7 @@ return (
     </div>
     
 
-       <div className="flex gap-4 overflow-hidden w-full relative box-border py-2">
+       <div className="flex gap-4 overflow-hidden w-full relative box-border p-15 items-center">
       <div className="flex gap-4 w-max animate-[scroll-gallery_30s_linear_infinite]">
         <img className="w-[170px] h-auto rounded-[10px] shrink-0" src="/assets/style_img_1.png" alt="Style 1" />
         <img className="w-[170px] h-auto rounded-[10px] shrink-0" src="/assets/style_img_2.png" alt="Style 2" />
