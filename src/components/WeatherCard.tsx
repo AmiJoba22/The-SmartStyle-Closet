@@ -25,15 +25,24 @@ return (
         
     </div>
 
-    <div className='flex flex-col items-center '>
+    <div className='weathercard-headings flex flex-col items-center '>
         <h1 className='text-6xl font-dot'>
             Today's Date is Date
         </h1>
-        <p> 
+        <p className='py-10'> 
             We are in the blank season, where temperatures range from. 
         </p>
         <br></br>
         <p className='text-[#808034]'> Please enter your zipcode for weather location </p>
+    </div>
+
+    <div className='zipcode-input'>
+    
+    <input
+    
+    
+    />
+
     </div>
 
 
