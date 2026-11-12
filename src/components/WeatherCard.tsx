@@ -43,6 +43,13 @@ return (
     
     />
 
+        <p className='text-2xl font-dot flex flex-col items-center py-4'>
+            You are currently in City, State
+        </p>
+
+        <h3 className='text-3xl font-sans text-[#808034] font-semibold flex flex-col items-center'>
+            Today's temperature will be blank degrees F. 
+        </h3>
     </div>
 
 
