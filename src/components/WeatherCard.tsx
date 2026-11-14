@@ -25,7 +25,7 @@ return (
         
     </div>
 
-    <div className='weathercard-headings flex flex-col items-center '>
+    <div className='weathercard-headings flex flex-col items-center py-7'>
         <h1 className='text-6xl font-dot'>
             Today's Date is Date
         </h1>
@@ -36,14 +36,17 @@ return (
         <p className='text-[#808034]'> Please enter your zipcode for weather location </p>
     </div>
 
-    <div className='zipcode-input'>
+    <div className='zipcode-input flex flex-col items-center py-10'>
     
-    <input
+    <input 
+    type='text'
+    placeholder='Enter Zipcode'
+    className=' rounded-4xl py-3 px-55 border-2 border-[#723480] hover:border-[#723480] active:border-[#723480] transition-colors'
     
     
     />
 
-        <p className='text-2xl font-dot flex flex-col items-center py-4'>
+        <p className='text-2xl font-dot flex flex-col items-center py-10'>
             You are currently in City, State
         </p>
 

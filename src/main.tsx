@@ -8,7 +8,7 @@ import App from './App.tsx'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
-    <BrowserRouter> {/* 👈 THIS Wrapper is what fixes your console error! */}
+    <BrowserRouter> 
       <App />
     </BrowserRouter>
   </React.StrictMode>,
